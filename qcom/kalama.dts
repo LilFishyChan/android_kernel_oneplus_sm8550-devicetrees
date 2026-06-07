@@ -1,6 +1,7 @@
 /dts-v1/;
 
 #include "kalama.dtsi"
+#include "camera/kalama-camera.dtsi"
 
 / {
 	model = "Qualcomm Technologies, Inc. Kalama SoC";
